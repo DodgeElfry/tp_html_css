@@ -8,10 +8,8 @@ Les différentes pages d’exercices se trouvent dans l’arborescence suivante 
 
 src/
 └── pages/
-couleurs
-fond_bordure
 selecteur
-textes
+
 
 ### Consignes
 
@@ -23,8 +21,6 @@ textes
 ### Exemple attendu
 
 Exercice 2 = Sélecteurs
-Exercice 2
-Exercice 3
 
 Chaque lien doit permettre d'accéder à la page correspondante dans le dossier `pages`.
 
